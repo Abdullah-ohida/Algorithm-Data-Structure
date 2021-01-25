@@ -1,12 +1,8 @@
-package com.part1.palindrome;
+package com.part1.TwoSum;
 
 import java.util.Arrays;
 
-public class NextSmallestPalindrome {
-    public static int checkNextSmallest(int[] numberArr, int num) {
-        return 0;
-    }
-
+public class TwoSum {
     public static void main(String[] args) {
         int[] Arr = {3,2,3};
         System.out.println(Arrays.toString(twoSum(Arr, 6)));
